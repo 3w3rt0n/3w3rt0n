@@ -1,12 +1,11 @@
 <div style="display: inline_block"><br>
-  <img align="right" height="150" style="border-radius:50px;" src="https://github.com/3w3rt0n/3w3rt0n/blob/main/Imagens/animePerfil.png?width=368&height=500">
+  <img align="right" height="100" style="border-radius:50px;" src="https://github.com/3w3rt0n/3w3rt0n/blob/main/Imagens/fotoPerfil.jpg?width=100&height=100">
   <h3 align="left" > Olá, estranho! </h3>
   <h3 align="left" > Meu nome é Ewerton e seja bem vindo ao meu perfil no GitHub! </h3>
 </div>
 
 <br/>
 
-##
 
 <br/>
 
